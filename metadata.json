@@ -1,0 +1,6 @@
+{
+  "name": "Forex Trade Journal",
+  "description": "บันทึกการเทรด Forex ปฏิทินแสดงกำไรขาดทุน รายละเอียดออเดอร์ พร้อมแนบรูปจุดเข้าและโน้ตบันทึก",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
